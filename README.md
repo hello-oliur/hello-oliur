@@ -10,7 +10,7 @@
 
 <p  align="center"><a href="#"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif"/></a></p>
 
-<h3 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> | <a href="https://arman-bd.medium.com/">Blog</a></h3>
+<h3 align="center"><a href="#">Portfolio</a> | <a href="#">Resume</a> | <a href="https://www.linkedin.com/in/hello-oliur/">LinkedIn</a> | <a href="#">Blog</a></h3>
 
 ## Tools and Technologies
 
