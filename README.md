@@ -20,9 +20,7 @@ Here are a few things I've picked up along my learning journey.
 
 <a href="#programming-languages"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> 
 
-<a href="#programming-languages"><img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/></a>
-
-<a href="#programming-languages"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a>
 
 
 ### Backend Technologies
@@ -41,9 +39,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### Database and Queues
 
-<a href="#database-and-queues"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
-
-<a href="#database-and-queues"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/></a>
+<a href="#database-and-queues"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/></a>
 
 ### Cloud Platforms
 
@@ -53,9 +49,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### Automation and Testing Tools
 
-<a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white"/></a>
-
-<a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white"/></a>
+<a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 
 ### IDE and Editors
 
