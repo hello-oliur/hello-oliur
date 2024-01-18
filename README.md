@@ -1,4 +1,4 @@
-# Hi there, I'm Oliur Rahman ðŸ‘‹
+# Hi there, I'm Oliur Rahman 
 
 ## I'm a Software Engineer and Full Stack Developer
 
