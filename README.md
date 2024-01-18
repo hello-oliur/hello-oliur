@@ -2,10 +2,15 @@
 
 ## I'm a Software Engineer and Full Stack Developer
 
-* I'm a passionate learner who's always willing to learn and work across technologies and domains.
-* I love to explore new technologies and leverage them to solve real-life problems.
-* I'm Currently working as Sr. Integration Engineer at NARAD LLC.
-* My current focus is on building scalable and robust applications using the latest technologies.
+* As a Sr. Integration Engineer at NARAD LLC, I'm committed to learning and applying cutting-edge technologies for scalable applications.
+
+* In my role, I explore tech's forefront, integrating innovative solutions to stay current and ready for future advancements.
+
+* Committed to excellence, I prioritize seamless integration of the latest technologies, enhancing efficiency and reliability.
+
+* Focused on building scalable applications, I navigate solutions across diverse domains.
+
+* Thriving in a dynamic tech landscape, I actively seek skill expansion, fostering continual growth in integration processes at NARAD LLC.
 
 <p  align="center"><a href="#"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif"/></a></p>
 
