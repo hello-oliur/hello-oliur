@@ -61,20 +61,10 @@ Here are a few things I've picked up along my learning journey.
 
 ### Project Management
 
-<a href="#project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/></a> <a href="#project-management"><img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/></a> <a href="#project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white"/></a> <a href="#project-management"><img src="https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=Asana&logoColor=white"/></a>
+<a href="#project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white"/></a>
 
 ### Operating Systems
 
 <a href="#operating-systems"><img src="https://img.shields.io/badge/Windows%2095-008080.svg?style=for-the-badge&logo=Windows-95&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
 
-<a href="#operating-systems"><img src="https://img.shields.io/badge/Lubuntu-0068C8.svg?style=for-the-badge&logo=Lubuntu&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white"/></a>
-
-## Some Stats
-
-<a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api?username=arman-bd&count_private=true&show_icons=true" height="180" /></a></a><a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" /></a></a>
-
-<h3 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> | <a href="https://arman-bd.medium.com/">Blog</a></h3>
-
-<!-- <h3>HackerRank Badges: <a href="https://www.hackerrank.com/arman_bd">hackerrank.com/arman_bd</a></h3>
-<a href="https://www.hackerrank.com/arman_bd"><a id="plx" href="#plx"><img src="https://i.imgur.com/EfpyZja.png" /></a></a> -->
-
+<a href="#operating-systems"><img src="https://img.shields.io/badge/Lubuntu-0068C8.svg?style=for-the-badge&logo=Lubuntu&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white"/></a> 
